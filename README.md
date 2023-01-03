@@ -18,13 +18,3 @@ For example:</br>
     <th><img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph" width=300 height=250></th>
   </tr>
 </table>
-<div class="row image">
-  <div class="images">
-    <p>DATA Page</p>                     
-    <img src="https://upload.cc/i1/2023/01/03/4wjJpx.png" alt="data" width=300 height=250>
-  </div>
-  <div class="images">
-    <p>GRAPH Page</p>
-    <img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph" width=300 height=250>
-  </div>
-</div>
