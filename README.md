@@ -8,6 +8,6 @@ Users can use the GUI to choose the dataset and adjust the learning rate and epo
 After training, users can see the traing and testing accuracy rate and final weight in the bottom of the GUI.</br>
 For example:</br>
 DATA Page
-<img src="https://upload.cc/i1/2023/01/03/4wjJpx.png" alt="data">
+<img src="https://upload.cc/i1/2023/01/03/4wjJpx.png" alt="data" width=300 height=250>
 GRAPH Page
-<img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph">
+<img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph" width=300 height=250>
