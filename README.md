@@ -3,10 +3,12 @@
 ### Language: Python
 ### GUI tool: wxPython
 
-All dataset can be found in the folder: fundamental.</br>
+All dataset can be found in the folder: fundamental</br>
+All results can be found in the folder: Graph</br>
 Users can use the GUI to choose the dataset and adjust the learning rate and epoch.</br>
 Press the "Start Traing" buttom to start the training process.</br>
 After training, users can see the traing and testing accuracy rate and final weight in the bottom of the GUI.</br>
+
 For example:</br>
 <table border:none>
   <tr>
