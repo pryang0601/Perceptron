@@ -8,7 +8,13 @@ Users can use the GUI to choose the dataset and adjust the learning rate and epo
 Press the "Start Traing" buttom to start the training process.</br>
 After training, users can see the traing and testing accuracy rate and final weight in the bottom of the GUI.</br>
 For example:</br>
-DATA Page                     GRAPH Page</br>
-<img src="https://upload.cc/i1/2023/01/03/4wjJpx.png" alt="data" width=300 height=250>
-
-<img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph" width=300 height=250>
+<div class="row image">
+  <div class="images">
+    <p>DATA Page</p>                     
+    <img src="https://upload.cc/i1/2023/01/03/4wjJpx.png" alt="data" width=300 height=250>
+  </div>
+  <div class="images">
+    <p>GRAPH Page</p>
+    <img src="https://upload.cc/i1/2023/01/03/sCoqDY.png" alt="graph" width=300 height=250>
+  </div>
+</div>
